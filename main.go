@@ -1,9 +1,10 @@
 package main
 
 import (
-	"fitness-tracker/daysteps"
-	"fitness-tracker/spentcalories"
 	"fmt"
+"github.com/Yandex-Practicum/tracker/daysteps"
+"github.com/Yandex-Practicum/tracker/spentcalories"
+	
 )
 
 func main() {
