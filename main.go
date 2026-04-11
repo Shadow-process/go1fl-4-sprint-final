@@ -1,10 +1,9 @@
 package main
 
 import (
-	"fmt"
-"github.com/Yandex-Practicum/tracker/daysteps"
-"github.com/Yandex-Practicum/tracker/spentcalories"
-	
+    "fmt"
+    "github.com/Yandex-Practicum/tracker/daysteps"
+    "github.com/Yandex-Practicum/tracker/spentcalories"
 )
 
 func main() {
