@@ -1,7 +1,7 @@
 package daysteps
 
 import (
-	"github.com/Yandex-Practicum/tracker/spentcalories"
+	"fitness-tracker/spentcalories"
 	"fmt"
 	"strconv"
 	"strings"
