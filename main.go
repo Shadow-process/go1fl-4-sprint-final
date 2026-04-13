@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/Yandex-Practicum/tracker/daysteps"
-	"github.com/Yandex-Practicum/tracker/spentcalories"
+	"fitness-tracker/daysteps"
+	"fitness-tracker/spentcalories"
 	"fmt"
 )
 
