@@ -1,7 +1,2 @@
-module fitness-tracker
-
+module github.com/Yandex-Practicum/go1fl-4-sprint-final
 go 1.21
-
-require (
- github.com/stretchr/testify v1.8.4
-)
